@@ -14,5 +14,35 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>Sonar</groupId>
+      <artifactId>Cube</artifactId>
+      <version>3.0</version>
+    </dependency>
+    <dependency>
+      <groupId>quaqua</groupId>
+      <artifactId>test</artifactId>
+      <version>5.1</version>
+    </dependency>
+    <dependency>
+      <groupId>Test</groupId>
+      <artifactId>quaqua2</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>test2</groupId>
+      <artifactId>jHotDraw</artifactId>
+      <version>2.0</version>
+    </dependency>
+    <dependency>
+      <groupId>tets</groupId>
+      <artifactId>anotation</artifactId>
+      <version>2.0</version>
+    </dependency>
+    <dependency>
+      <groupId>kok</groupId>
+      <artifactId>jsr</artifactId>
+      <version>3.6</version>
+    </dependency>
   </dependencies>
 </project>
