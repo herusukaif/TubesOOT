@@ -9,7 +9,7 @@
  * see accompanying license terms.
  */
 
-package Notepad;
+package com.tugasOOT;
 
 import javax.swing.*;
 import javax.swing.text.*;
