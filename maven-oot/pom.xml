@@ -44,5 +44,10 @@
       <artifactId>jsr</artifactId>
       <version>3.6</version>
     </dependency>
+    <dependency>
+      <groupId>testt</groupId>
+      <artifactId>plugin</artifactId>
+      <version>1.0</version>
+    </dependency>
   </dependencies>
 </project>
