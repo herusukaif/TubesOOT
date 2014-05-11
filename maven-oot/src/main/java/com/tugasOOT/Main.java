@@ -20,8 +20,8 @@ import org.jhotdraw.app.*;
  * @version $Id: Main.java 717 2010-11-21 12:30:57Z rawcoder $
  */
 public class Main {
-    public final static String NAME = "JHotDraw Teddy";
-    public final static String COPYRIGHT = "Â© 1996-2010 by the original authors of JHotDraw and all its contributors.";
+    public final static String NAME = "JHotDraw";
+    public final static String COPYRIGHT = "© JHotDraw and all its contributors.";
     
     /**
      * Launches the application.
